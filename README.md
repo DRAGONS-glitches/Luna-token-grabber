@@ -5,14 +5,18 @@
  
  
 
-Telegram: https://t.me/cservicess
-🔱 Join Telegram for support and contact 🔱
+Discord server join for more creators: https://discord.gg/KgGN5jTCdF
+🔱 Join Discord for support and contact 🔱
 
 
 Features
+
+
 Discord Information
 
 Nitro
+
+
 Badges
 Billing
 Email
